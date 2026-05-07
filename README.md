@@ -1,45 +1,70 @@
-![👋 Hi, my name is Akash Kumar Gupta](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ImAust1n&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Akash Kumar Gupta 👋
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Akash Kumar Gupta
-      </h1>
-    </summary>
-  </ul>
+Software engineering student · Full-stack developer · AI/ML builder · Bengaluru, India
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ImAust1n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-gupta-7a0b11295/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white)](https://x.com/AkashKu23220096)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eDx6g9nu8FyALRRT96lZLkLD_l12Ej-O/view?usp=sharing)
+
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/ImAust1n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/akash-kumar-gupta-7a0b11295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/AkashKu23220096" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+---
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+I build scalable full-stack applications and applied AI systems. Currently interning at **ForUdyog**, developing a SaaS platform in Next.js, and leading the **Data Analytics Club** at NHCE. I'm drawn to projects where engineering meets real-world impact.
 
-**<h3 align="left">Rapid Fire</h3>**
+---
 
-- 💼 I'm currently working on: **💻 Developing a new platform for Marking Atlas from a given map**
-- 🌱 I'm currently learning: **📚 Exploring AI/ML**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, RESTful APIs, Python, C++ and Machine Learning**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eDx6g9nu8FyALRRT96lZLkLD_l12Ej-O/view?usp=sharing)
+## 🛠 Tech stack
 
- **<h3 align="left">Skills</h3>**
+**Languages:** Python · C · C++ · JavaScript · TypeScript · SQL · Java
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"></div>
+**Frontend:** React.js · Next.js · TailwindCSS · HTML/CSS · Bootstrap
 
- **<h3 align="left">GitHub Stats</h3>**
+**Backend:** Node.js · Express.js · Flask · FastAPI
+
+**Databases:** MongoDB · MySQL · PostgreSQL
+
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn · LangChain · HuggingFace · OpenCV · MediaPipe
+
+**Tools:** Git · Linux · REST APIs · Vercel
+
+---
+
+## 🚀 What I'm up to
+
+- 🔨 Building a full-stack SaaS platform at **ForUdyog** — Next.js, dashboards, RESTful APIs
+- 📡 Leading the **Data Analytics Club** — workshops, hackathons & industry sessions (15+ members)
+- 🌱 Going deeper into data engineering and applied ML
+- 🗺️ Side project: platform for marking and annotating geographic atlases
+
+---
+
+## ✨ Featured projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [**LockedIn – AI Fitness Coach**](https://github.com/ImAust1n) | Python, MediaPipe, OpenCV | Real-time pose estimation for 5+ exercises with personalized macro tracking |
+| [**YapYap – Speech-to-Text**](https://github.com/ImAust1n) | Python, ASR, Signal Processing | Fully offline streaming STT — sub-1000ms latency, 95% word accuracy |
+| [**Medical RAG Chatbot**](https://github.com/ImAust1n) | Python, NLP, FAISS | Q&A over 8,000+ medical docs with 384-dim semantic embeddings |
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd place** — Code Battle 2k25 (24hr National Hackathon by VDRIT & IEEE), March 2025
+- 🥉 **3rd place** — Code Breaker Challenge 2.0 (24hr National Hackathon by GAT, Bengaluru), May 2025
+
+---
+
+## 📊 GitHub stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImAust1n&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImAust1n&theme=tokyonight&hide_border=false" alt="ImAust1n" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImAust1n&theme=react&count_private=true&line_height=23" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImAust1n&theme=tokyonight" />
 </p>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImAust1n&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ImAust1n&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImAust1n&theme=react&layout=compact&langs_count=6&card_width=400" />
 </p>
-
- <!--**<h3 align="left">Support Me</h3>**-->
-
-<!-- <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p> -->
