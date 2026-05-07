@@ -9,7 +9,7 @@ Software engineering student · Full-stack developer · AI/ML builder · Bengalu
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ImAust1n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-gupta-7a0b11295/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white)](https://x.com/AkashKu23220096)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eDx6g9nu8FyALRRT96lZLkLD_l12Ej-O/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DDND3Nvn0C9-Tw7O8Dr5eIEvowQft4Pd/view?usp=sharing)
 ![Profile views](https://komarev.com/ghpvc/?username=ImAust1n&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
