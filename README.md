@@ -1,11 +1,10 @@
 <div align="center">
+  
 ![👋 Hi, my name is Akash Kumar Gupta](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-![Profile views](https://komarev.com/ghpvc/?username=ImAust1n&label=Profile%20views&color=0e75b6&style=flat)
 
 # Hi, I'm Akash Kumar Gupta 👋
 
-Software engineering student · Full-stack developer · AI/ML builder · Bengaluru, India
+Software engineering student · Full-stack developer · AI/ML builder · Bengaluru, India ![Profile views](https://komarev.com/ghpvc/?username=ImAust1n&label=Profile%20views&color=0e75b6&style=flat)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ImAust1n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-gupta-7a0b11295/)
