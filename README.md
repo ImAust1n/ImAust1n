@@ -41,7 +41,7 @@ I build scalable full-stack applications and applied AI systems. Currently inter
 - 🔨 Building a full-stack SaaS platform at **ForUdyog** — Next.js, dashboards, RESTful APIs
 - 📡 Leading the **Data Analytics Club** — workshops, hackathons & industry sessions (15+ members)
 - 🌱 Going deeper into data engineering and applied ML
-- 🗺️ Side project: platform for marking and annotating geographic atlases
+- 🗺️ Side project: Aid for Blind People Navigation
 
 ---
 
